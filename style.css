@@ -1,11 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: rgb(247, 247, 179);
   font-family: Arial;
   font-size: 20px;
+  padding: 50px;
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
 }
 
 .first {
@@ -15,4 +32,38 @@ h1 {
 #your-name {
   background-color: rgb(255, 215, 106);
   border: 5px solid #444;
+  width: 400px;
+  padding: 25px;
+  margin-top: 30px;
 }
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+a {
+  background-color: yellowgreen;
+}
+
+#your-name h2 {
+  color: olivedrab;
+}
+
+#course-image {
+  width: 300px;
+}
+
+/*
+The CSS Box Model
+
+https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648397#overview
+
+Content: text, images, etc
+Padding: transparent area around the content, inside the box
+Border: goes around the padding and the content
+Margin: Space Between the boxes (outside the box)
+Fill Area: Area that gets filled with background color or background image. (inside the box)
+
+*/
