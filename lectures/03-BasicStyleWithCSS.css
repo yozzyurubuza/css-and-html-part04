@@ -1,0 +1,29 @@
+/* This CSS file goes with 02-AttrClassID.html */
+
+/* Element Selector */
+body {
+  /* Property : value */
+  background-color: rgb(255, 247, 201);
+  /* font-family property gets inherited, so all other text inside the body will be changed */
+  font-family: Arial;
+  /* h1-h6 will not be affected because they already have pre-defined sizes */
+  font-size: 20px;
+}
+
+h1 {
+  /* Although you can still modify their size specifically by selecting them like this */
+  font-size: 40px;
+}
+
+/* How to edit elements with class */
+/* All elements with "first" class will be affected by this code */
+.first {
+  color: red;
+}
+
+/* How to edit elements with ID */
+#your-name {
+  background-color: rgb(255, 220, 105);
+  /* Some CSS properties can have shorthand values, meaning, it accepts multiple values */
+  border: 5px solid #444;
+}
