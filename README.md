@@ -6,11 +6,13 @@ These are the topics of the code included in this repository.
 
 ### Sample Problems
 
-### `01 - Basic HTML Structure`
+### `01 - Basic HTML Structure and Elements`
 
 ### `02 - Attributes, Classes, and IDs`
 
 ### `03 - Basic Styling with CSS`
+
+### `04 - Introduction to the CSS Box Model`
 
 ## Notes:
 
