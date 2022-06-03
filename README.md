@@ -16,9 +16,7 @@ These are the topics of the code included in this repository.
 
 ## Notes:
 
-### `How to Think Like a Developer`
-
-### `Essential VSCode Extensions`
+### `01 - How to Use`
 
 ## How to use:
 
