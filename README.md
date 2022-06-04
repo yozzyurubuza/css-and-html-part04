@@ -14,6 +14,8 @@ These are the topics of the code included in this repository.
 
 ### `04 - Introduction to the CSS Box Model`
 
+### `05 - More HTML Elements`
+
 ## Notes:
 
 ### `01 - How to Use`
